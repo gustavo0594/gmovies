@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "GMovies"
 include(":app")
+include(":data")
+include(":domain")
+include(":features:movies")
+include(":library:navigation")
